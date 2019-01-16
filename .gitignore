@@ -1,0 +1,11 @@
+ssm.war
+*.jar
+*.class
+.classpath
+.project
+.settings/
+ssm/target/m2e-wtp/
+ssm/target/classes/
+ssm/target/maven-status/
+ssm/target/ssm/WEB-INF/classes/
+ssm/target/ssm/*.jsp
